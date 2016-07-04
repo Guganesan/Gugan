@@ -3,7 +3,7 @@
 void main(void) {
 int c,bin[100],i=0,q;
 clrscr();
-printf("Enter binary number:");
+printf("Enter decimal number:");
 scanf("%d",&c);
 q=c;
 while(q!=0)
