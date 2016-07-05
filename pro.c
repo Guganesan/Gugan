@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-int a[5];
+int a[10];
 int i,j,b;
 clrscr();
 printf("Enter 10 elements: ");
